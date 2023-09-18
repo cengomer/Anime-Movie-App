@@ -1,0 +1,139 @@
+{
+    "Data": [
+        {
+            "id": 0,
+            "movieImage": "1",
+            "movieName": "Inception",
+            "movieStudio": "Warner Bros. Pictures",
+            "movieRate": 4.7,
+            "movieRatersCount": 13562,
+            "charsPlayedInTheMovie": ["Cobb", "Ariadne"]
+        },
+        {
+            "id": 1,
+            "movieImage": "2",
+            "movieName": "The Shawshank Redemption",
+            "movieStudio": "Castle Rock Entertainment",
+            "movieRate": 3.9,
+            "movieRatersCount": 19238,
+            "charsPlayedInTheMovie": ["Andy Dufresne", "Ellis Boyd Redding"]
+        },
+        {
+            "id": 2,
+            "movieImage": "3",
+            "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+            "movieStudio": "New Line Cinema",
+            "movieRate": 2.8,
+            "movieRatersCount": 18456,
+            "charsPlayedInTheMovie": ["Frodo Baggins", "Aragorn"]
+        },
+        {
+            "id": 3,
+            "movieImage": "4",
+            "movieName": "Pulp Fiction",
+            "movieStudio": "Miramax Films",
+            "movieRate": 4.5,
+            "movieRatersCount": 21345,
+            "charsPlayedInTheMovie": ["Vincent Vega", "Jules Winnfield"]
+        },
+        {
+            "id": 4,
+            "movieImage": "5",
+            "movieName": "The Dark Knight",
+            "movieStudio": "Warner Bros. Pictures",
+            "movieRate": 3.8,
+            "movieRatersCount": 21789,
+            "charsPlayedInTheMovie": ["Batman", "Joker"]
+        },
+        {
+            "id": 5,
+            "movieImage": "6",
+            "movieName": "Avatar",
+            "movieStudio": "20th Century Studios",
+            "movieRate": 2.6,
+            "movieRatersCount": 16543,
+            "charsPlayedInTheMovie": ["Jake Sully", "Neytiri"]
+        },
+        {
+            "id": 6,
+            "movieImage": "7",
+            "movieName": "Forrest Gump",
+            "movieStudio": "Paramount Pictures",
+            "movieRate": 4.9,
+            "movieRatersCount": 22345,
+            "charsPlayedInTheMovie": ["Forrest Gump", "Jenny Curran"]
+        },
+        {
+            "id": 7,
+            "movieImage": "8",
+            "movieName": "Jurassic Park",
+            "movieStudio": "Universal Pictures",
+            "movieRate": 2.4,
+            "movieRatersCount": 19567,
+            "charsPlayedInTheMovie": ["Dr. Alan Grant", "Dr. Ian Malcolm"]
+        },
+        {
+            "id": 8,
+            "movieImage": "9",
+            "movieName": "Titanic",
+            "movieStudio": "20th Century Studios",
+            "movieRate": 3.7,
+            "movieRatersCount": 23112,
+            "charsPlayedInTheMovie": ["Jack Dawson", "Rose DeWitt Bukater"]
+        },
+        {
+            "id": 9,
+            "movieImage": "10",
+            "movieName": "The Matrix",
+            "movieStudio": "Warner Bros. Pictures",
+            "movieRate": 4.6,
+            "movieRatersCount": 19876,
+            "charsPlayedInTheMovie": ["Neo", "Morpheus"]
+        },
+        {
+            "id": 10,
+            "movieImage": "11",
+            "movieName": "The Lion King",
+            "movieStudio": "Walt Disney Pictures",
+            "movieRate": 4.8,
+            "movieRatersCount": 21789,
+            "charsPlayedInTheMovie": ["Simba", "Mufasa"]
+        },
+        {
+            "id": 11,
+            "movieImage": "12",
+            "movieName": "Star Wars: A New Hope",
+            "movieStudio": "Lucasfilm",
+            "movieRate": 4.7,
+            "movieRatersCount": 20456,
+            "charsPlayedInTheMovie": ["Luke Skywalker", "Princess Leia Organa"]
+        },
+        {
+            "id": 12,
+            "movieImage": "1",
+            "movieName": "E.T. the Extra-Terrestrial",
+            "movieStudio": "Universal Pictures",
+            "movieRate": 4.5,
+            "movieRatersCount": 17543,
+            "charsPlayedInTheMovie": ["E.T.", "Elliot"]
+        },
+        {
+            "id": 13,
+            "movieImage": "5",
+            "movieName": "The Avengers",
+            "movieStudio": "Marvel Studios",
+            "movieRate": 4.6,
+            "movieRatersCount": 22367,
+            "charsPlayedInTheMovie": ["Iron Man", "Captain America"]
+        },
+        {
+            "id": 14,
+            "movieImage": "2",
+            "movieName": "Back to the Future",
+            "movieStudio": "Universal Pictures",
+            "movieRate": 4.7,
+            "movieRatersCount": 20543,
+            "charsPlayedInTheMovie": ["Marty McFly", "Doc Brown"]
+        }
+    ]
+}
